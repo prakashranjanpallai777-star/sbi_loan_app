@@ -18,5 +18,28 @@ public class App {
         System.out.println("Hello World!");
 
 		System.out.println("Good morning!..");
+
+
+
+
+        //bug -123
+		public void m1(String t){
+			System.out.println(t);
+		}
+
+       
+		public void m2(String y){
+		System.out.println(y);
+		}
+
+		public void m3(String u){
+			System.out.println(u);
+		}
+
+			public void m3(String g){
+			System.out.println(g);
+		}
+
+
     }
 }
